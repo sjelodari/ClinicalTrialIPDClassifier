@@ -35,7 +35,7 @@ The volume of clinical trials registered on platforms like ClinicalTrials.gov is
 ## Dataset Flowchart
 
 
-![URL_of_the_image "Optional title"](https://github.com/sjelodari/ClinicalTrialIPDClassifier/blob/main/Datasets/Data%20Split%20Flowchart.png))
+![URL_of_the_image "Optional title"](https://github.com/sjelodari/ClinicalTrialIPDClassifier/blob/main/Datasets/Data%20Split%20Flowchart.png)
 
 #### Due to data privacy, descriptions in the `dataset/` directory have been hashed, but are identifiable by their NCT numbers. In the `dataset/` directory, data has been processed and labeled with binary labels for analysis: "Yes" = 0, "Undecided" = 1, "No" = 2. This maintains privacy while ensuring data usability.
 
