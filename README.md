@@ -15,12 +15,12 @@ The volume of clinical trials registered on platforms like ClinicalTrials.gov is
   - `data_sampling.py`: Samples data from the larger dataset for model training.
   - `Manual Labeling.py`: GUI for manually labeling data.
   - `data_splitting.py`: Divides dataset into training, validation, and test sets.
-  - `model_biobert_uncased_mlabel.py`: Evaluates BioBERT model using manual labels.
-  - `model_biobert_uncased_ipd.py`: Evaluates BioBERT model on IPD status.
-  - `model_bluebert_uncased_mlabel.py`: Evaluates BlueBERT model using manual labels.
-  - `model_bluebert_uncased_ipd.py`: Evaluates BlueBERT model on IPD status.
-  - `model_scibert_uncased_mlabel.py`: Evaluates SciBERT model using manual labels.
-  - `model_scibert_uncased_ipd.py`: Evaluates SciBERT model on IPD status.
+  - `Model_BioBERT_uncased_Mlabel.ipynb`: Evaluates BioBERT model using manual labels.
+  - `Model_BioBERT_uncased_IPD.ipynb`: Evaluates BioBERT model on IPD status.
+  - `Model_BlueBERT_uncased_Mlabel.ipynb`: Evaluates BlueBERT model using manual labels.
+  - `Model_BlueBERT_uncased_IPD.ipynb`: Evaluates BlueBERT model on IPD status.
+  - `Model_SciBERT_uncased_Mlabel.ipynb`: Evaluates SciBERT model using manual labels.
+  - `Model_SciBERT_uncased_IPD.ipynb`: Evaluates SciBERT model on IPD status.
 
 - `dataset/`: This directory holds the datasets used in the three model evaluations.
   - `Annotated_dataset/`: The folder contains 3 CSV files of training, validation, and test datasets with Manual labels.
