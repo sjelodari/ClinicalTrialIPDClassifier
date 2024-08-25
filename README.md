@@ -54,3 +54,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## Citation
 
 If you use the data or code in this repository in your research, please cite it as follows:
+
+Jelodari Mamaghani S, Strantz C, Toddenroth D. Classifiers of Data Sharing Statements in Clinical Trial Records. Stud Health Technol Inform. 2024;316:834-838. doi:10.3233/SHTI240541
